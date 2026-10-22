@@ -94,4 +94,4 @@ The app makes no network requests and stores no monitoring history. Preferences 
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md), [report a bug or suggest a feature](https://github.com/fajraii/island-monitor/issues/new/choose), or submit a focused pull request. Report vulnerabilities privately as described in [SECURITY.md](SECURITY.md). Release history is in [CHANGELOG.md](CHANGELOG.md).
 
-Copyright © 2026 Fajrianto Burhan. Source code and original logo assets are available under the [MIT license](LICENSE). Dynamic Island and iPhone are Apple trademarks; this independent project is not affiliated with or endorsed by Apple.
+Copyright © 2026 fajraii. Source code and original logo assets are available under the [MIT license](LICENSE). Dynamic Island and iPhone are Apple trademarks; this independent project is not affiliated with or endorsed by Apple.
